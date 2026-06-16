@@ -24,7 +24,7 @@ Il progetto nasce con l'obiettivo di essere semplice da comprendere, facile da e
 
 Consulta il README principale per installare Snode e creare il tuo primo programma:
 
-➡️ **Quick Start:** https://github.com/snodeproject/snode/blob/main/README.md#-avvio-rapido
+➡️ [**Quick Start:**](https://github.com/snodeproject/snode/blob/main/README.md?sect=avvio-rapido#avvio-rapido)
 
 ---
 
