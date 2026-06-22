@@ -64,6 +64,8 @@ Quando partecipi a discussioni, issue o pull request:
 - Accetta feedback e opinioni diverse.
 - Aiuta gli altri quando possibile.
 
+Ricorda di leggere le [Contributing Guidelines](https://github.com/snodeproject/snode/blob/main/.github/CONTRIBUTING.md) e il [Codice di Condotta](https://github.com/snodeproject/snode/blob/main/.github/CODE_OF_CONDUCT.md).
+
 ---
 
 ## 📄 Licenza
